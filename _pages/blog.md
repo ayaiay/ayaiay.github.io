@@ -3,7 +3,7 @@ layout: default
 permalink: /Eurorack/
 title: Eurorack
 description: Supplementary Material for the GrooveTransformer Eurorack Module
-nav: true
+nav: false
 nav_order: 1
 ---
 
