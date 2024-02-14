@@ -6,7 +6,7 @@ subtitle: <a href='#'>NIME '24</a>. Supplementary Documents.
 
 profile:
   align: center
-  image: prof_pic.png
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
