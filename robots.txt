@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://groovetransformer.github.io/sitemap.xml
+Sitemap: https://ayaiay.github.io/sitemap.xml
