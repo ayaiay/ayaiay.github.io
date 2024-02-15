@@ -32,5 +32,6 @@ social: false # includes social icons at the bottom of the page
   <source src="/assets/video/ayaiay_demo 18MB.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+AYAIAY demo
 
 
