@@ -33,6 +33,4 @@ social: false # includes social icons at the bottom of the page
   Your browser does not support the video tag.
 </video>
 
-`Hardware 1`
-
 
